@@ -2,6 +2,21 @@
 
 **A simplistic, sharp theme for [Onion OS](https://github.com/OnionUI/Onion).**
 
+## Screenshots
+
+<div>
+  <img src="sharp by m_axic/preview.png" width="256" alt="sharp">
+</div>
+
+---
+
+<a href="https://www.buymeacoffee.com/maxic">
+  <img src="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/8c395ecc760d4d540962d098f21b76bd3835536d/assets/coffee.svg" height="56" alt="Buy me a Coffee">
+</a>
+<a href="https://github.com/m-axic/OnionUI-klar-theme/releases">
+  <img src="https://raw.githubusercontent.com/m-axic/OnionUI-klar-theme/8c395ecc760d4d540962d098f21b76bd3835536d/assets/download.svg" height="56" alt="Get Latest">
+</a>
+
 ---
 
 ## Credits
