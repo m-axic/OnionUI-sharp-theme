@@ -5,9 +5,9 @@
 ## Screenshots
 
 <div>
-  <img src="preview.png" width="256" alt="sharp">
-  <img src="https://github.com/m-axic/OnionUI-sharp-theme/blob/9b1c7c9089fd7fd63425846f4211e5e314cac15c/assets/preview-2.png?raw=true" width="256" alt="sharp">
-  <img src="https://github.com/m-axic/OnionUI-sharp-theme/blob/9b1c7c9089fd7fd63425846f4211e5e314cac15c/assets/preview-settings.png?raw=true" width="256" alt="sharp">
+  <img src="sharp by m_axic/preview.png" width="256" alt="sharp">
+  <img src="https://raw.githubusercontent.com/m-axic/OnionUI-sharp-theme/main/assets/preview-2.png" width="256" alt="sharp">
+  <img src="https://raw.githubusercontent.com/m-axic/OnionUI-sharp-theme/main/assets/preview-settings.png" width="256" alt="sharp">
 </div>
 
 ---
