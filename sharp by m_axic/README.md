@@ -5,7 +5,7 @@
 ## Screenshots
 
 <div>
-  <img src="sharp by m_axic/preview.png" width="256" alt="sharp">
+  <img src="preview.png" width="256" alt="sharp">
 </div>
 
 ---
