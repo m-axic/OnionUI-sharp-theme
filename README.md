@@ -8,6 +8,7 @@
   <img src="https://raw.githubusercontent.com/m-axic/OnionUI-sharp-theme/main/sharp%20by%20m_axic/preview.png" width="256" alt="sharp">
   <img src="https://raw.githubusercontent.com/m-axic/OnionUI-sharp-theme/main/assets/preview-2.png" width="256" alt="sharp">
   <img src="https://raw.githubusercontent.com/m-axic/OnionUI-sharp-theme/main/assets/preview-settings.png" width="256" alt="sharp">
+  <img src="https://raw.githubusercontent.com/m-axic/OnionUI-sharp-theme/main/assets/preview-gameSwitcher.png" width="256" alt="sharp">
 </div>
 
 ---
